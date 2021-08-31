@@ -6,7 +6,4 @@
 
 - 💞️ I’m looking for an internship as sysadmin, devops or pentester
 
-- 📫 How to reach me : 
-  
-  - https://www.linkedin.com/in/youenn-t-7baa25137/
-  - yun-til@protonmail.com
+- 📫 How to reach me : yun-til@protonmail.com
